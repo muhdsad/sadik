@@ -16,6 +16,7 @@ cp "$SRC_DIR/adiyath.jpg" "$DEST_DIR/"
 cp "$SRC_DIR/icon-192.png" "$DEST_DIR/"
 cp "$SRC_DIR/icon-512.png" "$DEST_DIR/"
 cp "$SRC_DIR/manifest.webmanifest" "$DEST_DIR/"
+cp "$SRC_DIR/manifest.json" "$DEST_DIR/"
 cp "$SRC_DIR/sw.js" "$DEST_DIR/"
 
 echo "==> Synchronization complete: $DEST_DIR is up to date."

@@ -9,7 +9,8 @@ const ASSETS_TO_CACHE = [
   './adiyath.jpg',
   './icon-192.png',
   './icon-512.png',
-  './manifest.webmanifest'
+  './manifest.webmanifest',
+  './manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
