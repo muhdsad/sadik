@@ -1,0 +1,19 @@
+{
+  "name": "sadik-hub",
+  "version": "1.0.0",
+  "description": "Mohammed Sadique - Personal Workspace & Digital Hub (Web & Android)",
+  "scripts": {
+    "start": "npx serve .",
+    "sync": "bash sync-assets.sh",
+    "build:android": "cd android && ./gradlew assembleDebug",
+    "bundle:android": "cd android && ./gradlew bundleRelease"
+  },
+  "keywords": [
+    "workspace",
+    "android",
+    "dashboard",
+    "launcher"
+  ],
+  "author": "Mohammed Sadique",
+  "license": "ISC"
+}
