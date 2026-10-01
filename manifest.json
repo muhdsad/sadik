@@ -1,5 +1,5 @@
 {
-  "id": "./?source=pwa",
+  "id": "?source=pwa",
   "name": "Mohammed Sadique | Personal Workspace & Hub",
   "short_name": "Sadik Hub",
   "description": "Personal digital workspace, quick application launcher, and links hub for Mohammed Sadique.",
@@ -42,7 +42,6 @@
       "src": "adiyath.jpg",
       "sizes": "1875x648",
       "type": "image/jpeg",
-      "form_factor": "wide",
       "label": "Sadik Hub Workspace Dashboard"
     }
   ],
